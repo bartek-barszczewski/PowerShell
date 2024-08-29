@@ -1,0 +1,1 @@
+echo "FLAG_PS{WHAT_A_WONDERFUL_DAY}"
